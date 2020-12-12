@@ -6,6 +6,8 @@
   height: 40vmin;
   pointer-events: none;
 }
+.rowC{display:flex; flex-direction:row;}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
