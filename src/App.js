@@ -73,7 +73,7 @@ submit = (event) =>{
     return (
       <div className="App" >
         <br></br><br></br>
-        <h1>Image Fun</h1>
+        <h1>Spectral Insights</h1>
         <br></br><br></br><br></br><br></br>
       <div className ="rowC">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
