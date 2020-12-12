@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cloud-vision-faas/static/css/main.f401eb6e.chunk.css",
-    "main.js": "/cloud-vision-faas/static/js/main.16d4f0e6.chunk.js",
-    "main.js.map": "/cloud-vision-faas/static/js/main.16d4f0e6.chunk.js.map",
+    "main.js": "/cloud-vision-faas/static/js/main.c31d5363.chunk.js",
+    "main.js.map": "/cloud-vision-faas/static/js/main.c31d5363.chunk.js.map",
     "runtime-main.js": "/cloud-vision-faas/static/js/runtime-main.79c42b84.js",
     "runtime-main.js.map": "/cloud-vision-faas/static/js/runtime-main.79c42b84.js.map",
     "static/js/2.3707f5de.chunk.js": "/cloud-vision-faas/static/js/2.3707f5de.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.79c42b84.js",
     "static/js/2.3707f5de.chunk.js",
     "static/css/main.f401eb6e.chunk.css",
-    "static/js/main.16d4f0e6.chunk.js"
+    "static/js/main.c31d5363.chunk.js"
   ]
 }
