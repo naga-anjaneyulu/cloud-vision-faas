@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/naga-anjaneyulu/cloud-vision-faas/static/css/main.f401eb6e.chunk.css",
-    "main.js": "/naga-anjaneyulu/cloud-vision-faas/static/js/main.16d4f0e6.chunk.js",
-    "main.js.map": "/naga-anjaneyulu/cloud-vision-faas/static/js/main.16d4f0e6.chunk.js.map",
-    "runtime-main.js": "/naga-anjaneyulu/cloud-vision-faas/static/js/runtime-main.b6b143a9.js",
-    "runtime-main.js.map": "/naga-anjaneyulu/cloud-vision-faas/static/js/runtime-main.b6b143a9.js.map",
-    "static/js/2.3707f5de.chunk.js": "/naga-anjaneyulu/cloud-vision-faas/static/js/2.3707f5de.chunk.js",
-    "static/js/2.3707f5de.chunk.js.map": "/naga-anjaneyulu/cloud-vision-faas/static/js/2.3707f5de.chunk.js.map",
-    "static/js/3.0bf51e92.chunk.js": "/naga-anjaneyulu/cloud-vision-faas/static/js/3.0bf51e92.chunk.js",
-    "static/js/3.0bf51e92.chunk.js.map": "/naga-anjaneyulu/cloud-vision-faas/static/js/3.0bf51e92.chunk.js.map",
-    "index.html": "/naga-anjaneyulu/cloud-vision-faas/index.html",
-    "static/css/main.f401eb6e.chunk.css.map": "/naga-anjaneyulu/cloud-vision-faas/static/css/main.f401eb6e.chunk.css.map",
-    "static/js/2.3707f5de.chunk.js.LICENSE.txt": "/naga-anjaneyulu/cloud-vision-faas/static/js/2.3707f5de.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/naga-anjaneyulu/cloud-vision-faas/static/media/logo.6ce24c58.svg"
+    "main.css": "/cloud-vision-faas/static/css/main.f401eb6e.chunk.css",
+    "main.js": "/cloud-vision-faas/static/js/main.16d4f0e6.chunk.js",
+    "main.js.map": "/cloud-vision-faas/static/js/main.16d4f0e6.chunk.js.map",
+    "runtime-main.js": "/cloud-vision-faas/static/js/runtime-main.79c42b84.js",
+    "runtime-main.js.map": "/cloud-vision-faas/static/js/runtime-main.79c42b84.js.map",
+    "static/js/2.3707f5de.chunk.js": "/cloud-vision-faas/static/js/2.3707f5de.chunk.js",
+    "static/js/2.3707f5de.chunk.js.map": "/cloud-vision-faas/static/js/2.3707f5de.chunk.js.map",
+    "static/js/3.0bf51e92.chunk.js": "/cloud-vision-faas/static/js/3.0bf51e92.chunk.js",
+    "static/js/3.0bf51e92.chunk.js.map": "/cloud-vision-faas/static/js/3.0bf51e92.chunk.js.map",
+    "index.html": "/cloud-vision-faas/index.html",
+    "static/css/main.f401eb6e.chunk.css.map": "/cloud-vision-faas/static/css/main.f401eb6e.chunk.css.map",
+    "static/js/2.3707f5de.chunk.js.LICENSE.txt": "/cloud-vision-faas/static/js/2.3707f5de.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cloud-vision-faas/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6b143a9.js",
+    "static/js/runtime-main.79c42b84.js",
     "static/js/2.3707f5de.chunk.js",
     "static/css/main.f401eb6e.chunk.css",
     "static/js/main.16d4f0e6.chunk.js"
