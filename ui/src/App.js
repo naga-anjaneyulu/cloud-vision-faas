@@ -45,15 +45,9 @@ submit = (event) =>{
         console.log(response.data)
         this.setState({
           data : response.data,
-        src : obj.url })
-      
-       })
-     
-      
-      }
+        src : obj.url }) })}
    
       submit2 = (event) =>{
-    
         var obj = {url : this.state.url2 , op : "dl"}
         var res = {}
         console.log(obj)
@@ -61,12 +55,7 @@ submit = (event) =>{
            console.log(response.data)
           this.setState({
             data : response.data,
-            src : obj.url })
-        
-         })
-       
-        
-        }
+            src : obj.url })}) }
 
   render() {
     const obj = this.state.data
@@ -76,14 +65,10 @@ submit = (event) =>{
         <h1>Spectral Insights</h1>
         <br></br><br></br><br></br><br></br>
       <div className ="rowC">
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   
        Face Emotion Detection URL : <input type ="text" name ="url" value ={this.state.url} onChange ={this.handleChange}/>
        <button className ="my-button" onClick={this.submit}>Submit</button> <br></br>
 
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       LandMark Detection URL : <input type ="text" name ="url2" value ={this.state.url2} onChange ={this.handleChange2}/>
        <button className ="my-button" onClick={this.submit2}>Submit</button> <br></br>
        </div>
